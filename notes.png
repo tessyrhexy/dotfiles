@@ -1,0 +1,2 @@
+combine the key from X with the encoded hint from another R
+using base64 decoding is a good idea
